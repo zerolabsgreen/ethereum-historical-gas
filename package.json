@@ -1,0 +1,33 @@
+{
+  "name": "zelagac",
+  "version": "1.0.0",
+  "description": "zelagac: ZEroLAbs GAs Consumption",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mancap314/zelagac.git"
+  },
+  "keywords": [
+    "ethereum",
+    "smart-contracts",
+    "gas",
+    "consumption"
+  ],
+  "author": "Manuel Capel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mancap314/zelagac/issues"
+  },
+  "homepage": "https://github.com/mancap314/zelagac#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "request": "^2.88.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
