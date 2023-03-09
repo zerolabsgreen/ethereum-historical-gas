@@ -1,5 +1,4 @@
 var dotenv = require("dotenv");
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 
 dotenv.config()
 
