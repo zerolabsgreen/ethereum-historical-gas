@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mancap314/zelagac.git"
+    "url": "git+https://github.com/zerolabsgreen/ethereum-historical-gas.git"
   },
   "keywords": [
     "ethereum",
@@ -19,9 +19,9 @@
   "author": "Manuel Capel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mancap314/zelagac/issues"
+    "url": "https://github.com/zerolabsgreen/ethereum-historical-gas/issues"
   },
-  "homepage": "https://github.com/mancap314/zelagac#readme",
+  "homepage": "https://github.com/zerolabsgreen/ethereum-historical-gas#readme",
   "dependencies": {
     "chai": "^4.3.7",
     "dotenv": "^16.0.3",
